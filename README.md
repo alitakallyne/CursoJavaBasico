@@ -4,6 +4,7 @@
 ## Conteúdo 📝
 - Variáveis e Tipos de Dados
 - Estruturas de Controle
+- Estruturas de Dados
 - Orientação a Objetos
 
 ## Tecnologias utilizadas  🛠 
